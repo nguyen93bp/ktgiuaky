@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961805239662",
+    "project_id": "nguyen321-805b5",
+    "storage_bucket": "nguyen321-805b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961805239662:android:7940d7556de63091126d7f",
+        "android_client_info": {
+          "package_name": "com.ktgiuaky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKo_-qOlrfIEx9EMtvrHvKT_b2tpAKSb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
